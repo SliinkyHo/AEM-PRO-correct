@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title desc">
+  <title id="title">AEM Pro Pressure Washing mark</title>
+  <desc id="desc">A shield combining a Florida sun, home roofline and clean water wave.</desc>
+  <defs>
+    <linearGradient id="shield" x1="10" y1="8" x2="64" y2="66" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#075d79"/>
+      <stop offset="1" stop-color="#011723"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="12" y1="48" x2="60" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74dcf4"/>
+      <stop offset="1" stop-color="#20c7e8"/>
+    </linearGradient>
+  </defs>
+  <path d="M36 3C18 3 6 14.8 6 31.4 6 50 18.4 61 36 69c17.6-8 30-19 30-37.6C66 14.8 54 3 36 3Z" fill="url(#shield)" stroke="#ffb43f" stroke-width="3"/>
+  <circle cx="52" cy="18" r="8" fill="#ffb43f"/>
+  <path d="M17 36 36 20l19 16" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 34v14h26V34" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M13 49c8-5 14 5 22 0s14 5 24-1v9c-9 5-15-4-24 1s-15-5-22 0Z" fill="url(#wave)"/>
+  <path d="m16 16 1.7 4.3L22 22l-4.3 1.7L16 28l-1.7-4.3L10 22l4.3-1.7Z" fill="#98e34f"/>
+</svg>
